@@ -3,11 +3,11 @@ I grew up in a suburb of Chicago. After I finished my Peace Corps Service in Tog
 1) using data to optimize our program's energy savings and 
 2) assessing energy industry and technology trends to inform WECC's strategic direction. 
 
-# Professional Goals:
+## Professional Goals:
 
 Broadly, my professional goal is to utilize/create data analytic tools to foster the international and local local transition towards a clean, secure, and affordable energy future. Specifically, I like learning about the the electricity grid, pay-for-performance energy efficiency +  demand response, and rural electrification in developing countries. Primarily, I use R as my statistical analysis program.
 
-# Personal:
+## Personal:
 
 I like to be outside, soccer, cook, play my guitar, feel healthy, and go places i haven't been before.
 
